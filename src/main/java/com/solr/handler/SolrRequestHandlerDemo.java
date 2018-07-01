@@ -1,4 +1,4 @@
-package com.hisign.pu.abis.solr;
+package com.solr.handler;
 
 import org.apache.solr.common.params.SolrParams;
 import org.apache.solr.handler.RequestHandlerBase;
